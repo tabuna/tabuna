@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Check my projects :point_down: and if you like them give them a :star: or submit a PR.
+
 <!--
 **tabuna/tabuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
