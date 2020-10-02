@@ -18,4 +18,4 @@ I love developing backend in PHP using the Laravel framework.
 -->
 
 
-Check my projects :point_down: and if you like them give them a :star: or submit a PR.
+Check my projects :point_down:, and if you like them, give them a :star: or submit a PR.
