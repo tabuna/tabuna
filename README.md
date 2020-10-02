@@ -5,7 +5,7 @@ I love developing backend in PHP using the Laravel framework.
 
 
 - ⚡ I’m currently working at [smi2](https://smi2.net/).
-- 📷 Want to see my good side? See on [Instagram](https://www.instagram.com/anaubat/).
+- 📷 Want to see me? See on [Instagram](https://www.instagram.com/anaubat/).
 - 💬 You can reach me via Telegram (@tabuna).
 
 <!--
