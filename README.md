@@ -1,18 +1,21 @@
 ### Hi there 👋
 
-Check my projects :point_down: and if you like them give them a :star: or submit a PR.
+I love developing backend in PHP using the Laravel framework.
+
+
+
+- ⚡ I’m currently working at [smi2](https://smi2.net/).
+- 📷 Want to see my good side? See on [Instagram](https://www.instagram.com/anaubat/).
+- 💬 You can reach me via Telegram (@tabuna).
 
 <!--
-**tabuna/tabuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Check my projects :point_down: and if you like them give them a :star: or submit a PR.
