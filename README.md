@@ -21,5 +21,4 @@ I love developing backend in PHP using the Laravel framework.
 Check my projects :point_down:, and if you like them, give them a :star: or submit a PR.
 
 
-
-<span style="background: url(https://mc.yandex.ru/pixel/1655967706724313300?rnd=%aw_random%);"></span>
+<img scr="https://mc.yandex.ru/pixel/1655967706724313300?rnd=%aw_random%">
