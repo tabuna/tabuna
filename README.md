@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I love developing backend in PHP using the Laravel framework.
+I love developing backend.
 
 - ⚡ I’m currently working at [Assisted Mindfulness](https://github.com/Assisted-Mindfulness).
 - 📷 Want to see me? See on [Instagram](https://www.instagram.com/anaubat/).
