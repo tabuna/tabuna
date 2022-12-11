@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+I'm a backend developer with a passion for creating powerful and efficient systems. I love the challenge of taking complex problems and finding simple, elegant solutions that make a big impact.
+
+Currently, I'm working at [Assisted Mindfulness](https://github.com/Assisted-Mindfulness), where I get to work on exciting projects that help people improve their mental health and wellbeing. I'm always looking for new ways to use technology to make a positive difference in people's lives.
+
+In my free time, I enjoy taking photos and sharing them on [Instagram](https://www.instagram.com/anaubat/). I love capturing the beauty of the world around us, and sharing those moments with others.
+
+If you want to chat or ask me anything, you can reach me on [Telegram](https://t.me/tabuna). I'm always happy to talk about technology, mental health, or anything else that's on your mind.
+
+I also have a few open-source projects that I'm proud of. Check them out below and don't forget to give them a :star: if you like them! And if you're feeling particularly ambitious, feel free to submit a pull request with your own contributions. I'm always looking for new collaborators and contributors who can help me make these projects even better.
+
+
+
+<!--
+### Hi there 👋
+
 I love developing backend.
 
 - ⚡ I’m currently working at [Assisted Mindfulness](https://github.com/Assisted-Mindfulness).
@@ -7,7 +22,6 @@ I love developing backend.
 - 💬 You can reach me via Telegram [@tabuna](https://t.me/tabuna).
 
 
-<!--
 - ⚡ I’m currently working at [SMI2](https://smi2.net/).
 - 📷 Want to see me? See on [Instagram](https://www.instagram.com/anaubat/).
 - 🎮 You can play with me [DOTA2](https://www.opendota.com/players/72303558/overview).
@@ -20,10 +34,10 @@ I love developing backend.
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
 Check my open-source projects :point_down:, and if you like them, give them a :star: or submit a PR.
+-->
 
 
 
