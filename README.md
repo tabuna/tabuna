@@ -1,6 +1,7 @@
 ### Hey there 👋
 
-I'm a backend developer who loves creating powerful and efficient systems 💪. I'm always looking for new challenges and ways to make a positive impact with technology.
+I'm a backend developer who loves creating powerful and efficient systems 💪. 
+I'm always looking for new challenges and ways to make a positive impact with technology.
 
 Right now, I'm working at [Assisted Mindfulness](https://github.com/Assisted-Mindfulness), where I get to work on amazing projects that help people improve their mental health and wellbeing 🧠. I'm passionate about using technology for good, and I'm always looking for new ways to make a difference.
 
@@ -9,6 +10,7 @@ In my free time, I enjoy taking photos and sharing them on [Instagram](https://w
 If you want to chat or ask me anything, you can reach me on [Telegram](https://t.me/tabuna) 💬. I'm always happy to talk about technology, mental health, or anything else that's on your mind.
 
 I also have a few open-source projects that I'm proud of 🤓. Check them out below and don't forget to give them a :star: if you like them! And if you're feeling particularly ambitious, feel free to submit a pull request with your own contributions. I'm always looking for new collaborators and contributors who can help me make these projects even better.
+
 
 
 
