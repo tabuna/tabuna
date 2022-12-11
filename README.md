@@ -1,7 +1,6 @@
 ### Hey there 👋
 
-I'm a backend developer who loves creating powerful and efficient systems 💪. 
-I'm always looking for new challenges and ways to make a positive impact with technology.
+I'm a backend developer who loves creating powerful and efficient systems 💪. I have over 10 years of experience in the field, and I have worked on a wide range of projects, from large-scale enterprise systems to small startups.
 
 Right now, I'm working at [Assisted Mindfulness](https://github.com/Assisted-Mindfulness), where I get to work on amazing projects that help people improve their mental health and wellbeing 🧠. I'm passionate about using technology for good, and I'm always looking for new ways to make a difference.
 
