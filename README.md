@@ -43,7 +43,7 @@ Check my open-source projects :point_down:, and if you like them, give them a :s
 
 
 
-
+<!--
 
 <p>
     <a href="https://orchid.software/" target="_blank"><img src="https://raw.githubusercontent.com/orchidsoftware/art/master/our-projects/orchid.png" width="250" style="max-width: 33.333%"></a>
@@ -51,3 +51,4 @@ Check my open-source projects :point_down:, and if you like them, give them a :s
     <a href="https://cagilo.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/orchidsoftware/art/master/our-projects/cagilo.png" width="250" style="max-width: 33.333%"></a>
 </p>
 
+-->
